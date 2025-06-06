@@ -19,6 +19,7 @@ const Navbar = () => {
               </div>
               <h1 className="text-lg font-bold">NeverMind</h1>
             </Link>
+             <div className="badge badge-dash badge-info">Beta</div>
           </div>
 
           <div className="flex items-center gap-2">
